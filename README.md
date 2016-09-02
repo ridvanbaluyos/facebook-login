@@ -17,4 +17,6 @@ A facebook login web implementation
 4. Run local webserver
   ``php -S localhost:8081``
 
+5. Visit http://localhost:8081
+
 
